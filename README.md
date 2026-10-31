@@ -4,7 +4,7 @@ Static research and country-source landing page covering African fiscal policy, 
 
 ## Publish with GitHub Pages
 
-This repository is prepared for GitHub Pages using the workflow at `.github/workflows/pages.yml`. It publishes only `index.html` and `research-notes.md`; other workspace files are not copied into the Pages artifact.
+This repository publishes the Africa Fiscal Desk homepage, research notes, sitemap, shared guide stylesheet and the nested policy guides under `guides/` with the workflow at `.github/workflows/pages.yml`.
 
 1. Create a **public** GitHub repository for the site and push the `main` branch.
 2. In the repository, open **Settings → Pages** and choose **GitHub Actions** as the build and deployment source.
@@ -15,5 +15,5 @@ GitHub Pages deployment reference: <https://docs.github.com/en/pages/getting-sta
 
 ## Local preview
 
-Open `index.html` in a browser. The expert-interest form opens a prefilled email to the research contact; the static page does not collect form submissions itself.
+Open `index.html` in a browser for a local preview. The live connection form sends submissions through FormSubmit to `emunyemana@kids.ac.kr`. FormSubmit requires one-time recipient activation: when the first visitor submits the form, open its activation email so FormSubmit can forward the held submission and future messages. FormSubmit states that it retains form submissions for up to 30 days; the site itself does not store form entries.
 

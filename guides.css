@@ -1,0 +1,49 @@
+:root{--ink:#14251f;--muted:#60716a;--paper:#f6f5ef;--white:#fffefa;--green:#174c3b;--lime:#d7ee75;--line:#dce1d6;--coral:#dc754e;--blue:#2978a0;--gold:#bf871f;--teal:#278878;--plum:#7651a8}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.65 "Segoe UI",Arial,sans-serif}
+a{color:var(--green)}
+.site-header{padding:18px clamp(20px,6vw,88px);display:flex;justify-content:space-between;align-items:center;gap:24px;border-bottom:1px solid var(--line);background:var(--white)}
+.brand{font-weight:800;letter-spacing:-.04em;font-size:19px;text-decoration:none;color:var(--ink);white-space:nowrap}
+.brand span{color:var(--green)}
+nav{display:flex;gap:18px;flex-wrap:wrap;font-size:13px}
+nav a{text-decoration:none;color:var(--muted);font-weight:650}
+nav a:hover{color:var(--green)}
+main{max-width:1100px;margin:0 auto;padding:24px clamp(20px,6vw,72px) 64px}
+.breadcrumb{font-size:13px;color:var(--muted);margin:4px 0 22px}
+.breadcrumb a{text-decoration:none}
+.guide-hero{background:var(--green);color:white;border-radius:10px;padding:clamp(28px,6vw,64px);position:relative;overflow:hidden}
+.guide-hero:after{content:"";position:absolute;width:340px;height:340px;border:1px solid #ffffff28;border-radius:50%;right:-100px;top:-190px;box-shadow:0 0 0 34px #ffffff0d,0 0 0 78px #ffffff08}
+.eyebrow{text-transform:uppercase;letter-spacing:.15em;font-size:11px;font-weight:800;color:var(--green);margin:0 0 10px}
+.guide-hero .eyebrow{color:var(--lime)}
+h1,h2{letter-spacing:-.04em;line-height:1.08}
+h1{font-size:clamp(36px,6vw,66px);max-width:820px;margin:0 0 20px;position:relative;z-index:1}
+.lede{font-size:clamp(17px,2vw,21px);line-height:1.5;max-width:760px;color:#e2eae5;margin:0;position:relative;z-index:1}
+.byline{font-size:13px;color:#d4e1da;margin:24px 0 0;position:relative;z-index:1}
+.byline a{color:var(--lime)}
+.guide-content{max-width:800px;margin:42px auto}
+.guide-section{padding:0 0 26px;margin:0 0 28px;border-bottom:1px solid var(--line)}
+.guide-section h2,.related-head h2,.source-list h2{font-size:clamp(24px,3vw,34px);margin:0 0 13px;display:inline-block;position:relative;padding-bottom:10px}
+.guide-section h2:after,.related-head h2:after,.source-list h2:after{content:"";position:absolute;left:0;bottom:0;width:50px;height:4px;border-radius:4px;background:var(--accent,var(--green))}
+.accent-gold{--accent:var(--gold)}.accent-blue{--accent:var(--blue)}.accent-teal{--accent:var(--teal)}.accent-coral{--accent:var(--coral)}.accent-plum{--accent:var(--plum)}.accent-green{--accent:var(--green)}
+.guide-section p{font-size:17px;max-width:760px;margin:0;color:#34463e}
+.action-box{background:#e9f0e8;border-left:4px solid var(--accent,var(--green));padding:22px 26px;border-radius:0 8px 8px 0;margin:34px 0}
+.action-box ul{margin:0;padding-left:21px}
+.action-box li{padding:4px 0}
+.source-list ul{list-style:none;margin:0;padding:0;display:flex;gap:10px;flex-wrap:wrap}
+.source-list li a{display:inline-block;padding:9px 13px;background:var(--white);border:1px solid var(--line);border-radius:6px;text-decoration:none;font-weight:650;font-size:14px}
+.related-section{margin:52px 0}
+.related-head{margin-bottom:16px}
+.guide-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.guide-card{background:var(--white);border:1px solid var(--line);border-radius:8px;padding:18px;display:flex;flex-direction:column;gap:10px;min-height:146px;text-decoration:none;color:var(--ink);transition:transform .18s,border-color .18s}
+.guide-card:hover{transform:translateY(-3px);border-color:var(--accent,var(--green))}
+.guide-card span{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.1em}
+.guide-card strong{font-size:17px;line-height:1.25}
+.guide-card b{color:var(--green);font-size:13px;margin-top:auto}
+.connect-cta{display:flex;justify-content:space-between;align-items:center;gap:24px;background:var(--ink);color:#e7eee9;padding:26px;border-radius:9px}
+.connect-cta h2{font-size:24px;margin:4px 0 8px}
+.connect-cta p{margin:0}
+.connect-cta .eyebrow{color:var(--lime)}
+.cta-button{background:var(--lime);color:var(--ink);padding:12px 16px;border-radius:5px;text-decoration:none;font-weight:800;white-space:nowrap}
+footer{padding:22px clamp(20px,6vw,88px);background:var(--ink);color:#d8e4de;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;font-size:13px}
+footer a{color:var(--lime)}
+@media(max-width:720px){.site-header{align-items:flex-start;flex-direction:column}nav{gap:10px 14px}.connect-cta{align-items:flex-start;flex-direction:column}.cta-button{white-space:normal}}

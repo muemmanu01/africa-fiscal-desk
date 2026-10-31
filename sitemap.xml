@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://muemmanu01.github.io/africa-fiscal-desk/</loc>
-    <lastmod>2026-10-31</lastmod>
-  </url>
-  <url>
-    <loc>https://muemmanu01.github.io/africa-fiscal-desk/research-notes.md</loc>
-    <lastmod>2026-10-31</lastmod>
-  </url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/research-notes.md</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/policy/financing-plan.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/policy/revenue-strategy.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/policy/public-investment.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/policy/debt-management.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/country/fiscal-diagnostic.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/country/budget-cycle.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/country/revenue-sources.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/evidence/revenue-performance.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/evidence/tax-administration.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/evidence/social-protection.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/connectors/revenue-macro-data.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/connectors/debt-data.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/connectors/procurement-data.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/network/policy-collaboration.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/network/opportunity-updates.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/about/profile.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/about/policy-approach.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/policy/index.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/country/index.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/evidence/index.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/connectors/index.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/network/index.html</loc><lastmod>2026-10-31</lastmod></url>
+  <url><loc>https://muemmanu01.github.io/africa-fiscal-desk/guides/about/index.html</loc><lastmod>2026-10-31</lastmod></url>
 </urlset>

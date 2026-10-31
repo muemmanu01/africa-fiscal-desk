@@ -1,0 +1,29 @@
+# Africa Fiscal Desk
+
+> Africa Fiscal Desk is a public finance and development policy resource curated by Dr Emmanuel Munyemana. It equips African policymakers, researchers and development partners with practical guidance and evidence on fiscal policy, domestic revenue, budgets, debt, public investment, social protection and public data.
+
+## Main pages
+
+- [Home](https://muemmanu01.github.io/africa-fiscal-desk/): English homepage, profile, policy framework, evidence library and country selector.
+- [French resources](https://muemmanu01.github.io/africa-fiscal-desk/fr/): French-language overview and topic links.
+- [Spanish resources](https://muemmanu01.github.io/africa-fiscal-desk/es/): Spanish-language overview and topic links.
+- [Chinese resources](https://muemmanu01.github.io/africa-fiscal-desk/zh/): Simplified Chinese overview and topic links.
+- [Sitemap](https://muemmanu01.github.io/africa-fiscal-desk/sitemap.xml): public HTML page URLs.
+- [Research notes](https://muemmanu01.github.io/africa-fiscal-desk/research-notes.md): sources, update notes and editorial context.
+
+## Policy guidance
+
+- [Policy priorities](https://muemmanu01.github.io/africa-fiscal-desk/guides/policy/): financing plans, domestic revenue, public investment and debt management.
+- [Country tools](https://muemmanu01.github.io/africa-fiscal-desk/guides/country/): fiscal diagnostics, budget cycles and national revenue sources.
+- [Evidence library](https://muemmanu01.github.io/africa-fiscal-desk/guides/evidence/): revenue performance, tax administration and social protection.
+- [Data connectors](https://muemmanu01.github.io/africa-fiscal-desk/guides/connectors/): revenue and macroeconomic, debt and procurement data.
+- [Policy collaboration](https://muemmanu01.github.io/africa-fiscal-desk/guides/network/): collaboration and public investment opportunities.
+- [About the desk](https://muemmanu01.github.io/africa-fiscal-desk/guides/about/): Dr Emmanuel Munyemana’s profile and policy approach.
+
+## Topics
+
+African public finance; fiscal policy; public financial management; domestic revenue mobilisation; taxation; tax administration; public budgeting; debt management; public investment; social protection; poverty monitoring; national statistical systems; social service delivery; development financing; African fiscal data; public procurement.
+
+## Publisher and contact
+
+Africa Fiscal Desk is curated by Dr Emmanuel Munyemana, a data scientist with a PhD in Data Science and Econometrics and a development policy specialist. Contact: emunyemana@kdis.ac.kr.
